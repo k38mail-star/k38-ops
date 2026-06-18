@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+node_status_bak.py
+dashboard_bak.py
+.VERSION
+
